@@ -24,9 +24,9 @@
 <p align="center">
   <table width="100%">
     <tr>
-      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/raw/main/source/buzzer.webp" alt="Image 1" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/buzzer.png?raw=true" alt="Image 1" width="100%"/></td>
       <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/ultrasonic.png?raw=true" alt="Image 2" width="100%"/></td>
-      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/uno.jpeg?raw=true" alt="Image 3" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/uno.png?raw=true" alt="Image 3" width="100%"/></td>
     </tr>
     <tr>
       <td align="center">buzzer</td>
