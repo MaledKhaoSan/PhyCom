@@ -60,7 +60,7 @@
 https://maledkhaosan.github.io/PhyCom/
 
 # YouTube สาธิตการทำงาน
-https://youtu.be/HDK1q2qy2TI?si=WCmcptUFXFldW2lL
+https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn
 
 # Source Code
 ```cpp
