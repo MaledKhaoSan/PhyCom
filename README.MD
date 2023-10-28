@@ -130,7 +130,57 @@ void deactivateBuzzer() {
   Serial.println("Buzzer OFF");
 }
 ```
+# tinkercad arduino Source Code
+```c
+#include <Arduino.h>
 
+// กำหนดค่าคงที่สำหรับพินของ Arduino
+const int TRIGGER_PIN = 12;
+const int ECHO_PIN = 11;
+const int BUZZER_PIN = 8;
+
+// ตัวแปรที่จะเก็บค่าเวลาและระยะทาง
+int duration;
+int distance;
+
+void setup() {
+  // เริ่มต้นการสื่อสารทาง Serial ด้วยความเร็ว 9600 bps
+  Serial.begin(9600);
+  
+  // ตั้งค่าโหมดการทำงานของพินต่างๆ
+  pinMode(TRIGGER_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
+  pinMode(BUZZER_PIN, OUTPUT);
+}
+
+void loop() {
+  // ส่งสัญญาณทริกเกอร์
+  digitalWrite(TRIGGER_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIGGER_PIN, LOW);
+
+  // วัดระยะเวลาที่สัญญาณเอคโค่กลับมา
+  duration = pulseIn(ECHO_PIN, HIGH);
+
+  // คำนวณระยะทาง
+  distance = (duration * 0.034) / 2;
+
+  // แสดงระยะทางทาง Serial Monitor
+  Serial.print("Distance: ");
+  Serial.print(distance);
+  Serial.println(" cm");
+
+  // เช็คระยะทางและเปิดบัซเซอร์ถ้าระยะทางน้อยกว่าหรือเท่ากับ 30 ซม. และไม่เท่ากับ 0
+  if (distance <= 30 && distance != 0) {
+    digitalWrite(BUZZER_PIN, HIGH);
+    delay(500);
+  } else {
+    digitalWrite(BUZZER_PIN, LOW);
+    delay(500);
+  }
+}
+
+```
 # Member
 1. 65070022 นางสาวกุลธิดา รัตนวิจิตร
 2. 65070048 นายชาญเมธา สงวนทรัพย์
