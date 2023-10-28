@@ -23,11 +23,14 @@
 # อุปกรณ์
 
 <p float="left">
-  <img src="images/aws-bootstrap.webp" height="150" width="250" /> Text
+  <img src="images/aws-bootstrap.webp" height="150" width="250" />
+  <p> Text
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/git-hooks.webp" height="150" width="250" /> Text
+  <img src="images/git-hooks.webp" height="150" width="250" />
+  <p> Text
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/python-tab.webp" height="150" width="250" /> Text
+  <img src="images/python-tab.webp" height="150" width="250" />
+  <p> Text
 </p>
 - Arduino UNO
 <img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" width="150px">
