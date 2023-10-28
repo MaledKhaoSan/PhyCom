@@ -61,7 +61,7 @@ https://maledkhaosan.github.io/PhyCom/
 https://youtu.be/HDK1q2qy2TI?si=WCmcptUFXFldW2lL
 
 # Source Code
-```
+```cpp
 #include <Arduino.h>
 // กำหนดค่าคงที่สำหรับพินของ Arduino
 const int TRIGGER_PIN = 12;
