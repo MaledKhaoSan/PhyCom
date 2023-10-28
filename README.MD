@@ -1,8 +1,8 @@
 # SMART CAP FOR BLIND
-&emsp;&emsp;โครงงานนี้จัดทำขึ้นเพื่อเป็นส่วนหนึ่งของวิชา Computer Programming เพื่อให้ได้ศึกษาหาความรู้ในเรื่องของการเขียนโปรแกรมภาษาC และการต่อบอร์ด Arduino โดยได้ศึกษาผ่านแหล่งความรู้ต่างๆ ไม่ว่าจะเป็นการศึกษาในห้องเรียนหรือการศึกษาด้วยตนเอง อาทิเช่น แหล่งความรู้จากเว็บไซต์ต่างๆ เป็นต้น ซึ่งในปัจจุบัน IoT (Internet of Things) ได้เข้ามามีบทบาทในชีวิตประจำวันเป็นอย่างมาก คณะผู้จัดทำจึงได้นำความรู้ทั้งหมดมาประยุกต์ใช้ทำโครงงานนี้ ซึ่งโครงงานที่จะนำเสนอนี้เป็นโครงงานทอยลูกเต๋าออนไลน์ เพื่อเพิ่มความสะดวกสบายในการใช้และช่วยลดทรัพยากรต่างๆ เนื่องจากลูกเต๋าเป็นสิ่งของที่มีขนาดเล็กทำให้เกิดการสูญหายและสิ้นเปลืองได้ง่าย ซึ่งผู้จัดทำคาดหวังเป็นอย่างยิ่งว่าการจัดทำโครงงานนี้จะมีข้อมูลที่เป็นประโยชน์ต่อผู้ที่สนใจศึกษาการพัฒนาเทคโนโลยีที่เกี่ยวข้องกับ IoT ต่อไปในอนาคต
+&emsp;&emsp;โครงงานนี้จัดทำขึ้นเพื่อเป็นส่วนหนึ่งของวิชา PHYSICAL COMPUTING เพื่อให้ได้ศึกษาหาความรู้ในเรื่องของการเขียนโปรแกรมภาษาC และการต่อบอร์ด Arduino โดยได้ศึกษาผ่านแหล่งความรู้ต่างๆ ไม่ว่าจะเป็นการศึกษาในห้องเรียนหรือการศึกษาด้วยตนเอง อาทิเช่น แหล่งความรู้จากเว็บไซต์ต่างๆ เป็นต้น ซึ่งในปัจจุบัน IoT (Internet of Things) ได้เข้ามามีบทบาทในชีวิตประจำวันเป็นอย่างมาก คณะผู้จัดทำจึงได้นำความรู้ทั้งหมดมาประยุกต์ใช้ทำโครงงานนี้ ซึ่งโครงงานที่จะนำเสนอนี้เป็นโครงงานหมวกอัจฉริยะสำหรับผู้พิการทางสายตา เป็นการพัฒนาเทคโนโลยีที่มุ่งเน้นการช่วยเหลือผู้พิการทางสายตาในการเรียนรู้และเข้าถึงข้อมูลในสิ่งแวดล้อมรอบข้างได้อย่างมีประสิทธิภาพ หมวกนี้มาพร้อมกับเซนเซอร์และเทคโนโลยีที่ช่วยในการจับสิ่งกีดขวางและแปลงข้อมูลให้อยู่ในรูปแบบที่ผู้ใช้สามารถทราบได้ ยกตัวอย่างเช่น เมื่อเซนเซอร์ตรวจจับสิ่งกีดขวางอยู่ในทางเดินของผู้ใช้ หมวกจะส่งเสียงเตือน เพื่อเตือนให้ผู้ใช้ให้ระวังและป้องกันการชนกับสิ่งกีดขวางนั้น การพัฒนาหมวกอัจฉริยะนี้ช่วยให้ผู้พิการทางสายตามีความปลอดภัยและสะดวกในการเคลื่อนที่ในสิ่งแวดล้อมของพวกเขา
 
 # Poster
-<img src="https://github.com/nickanyp/Project-Compro/blob/main/Poster.png?raw=true" width="100%">
+<img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/SMARTCAPFORBLIND.png?raw=true" width="100%">
 
 # ที่มาของโครงงาน
 &emsp;&emsp;ในปัจจุบันนี้, เทคโนโลยีได้เข้ามามีบทบาทสำคัญในการช่วยเสริมสร้างความสามารถและคุณภาพชีวิตของคนตาบอดอย่างมากมาย
@@ -21,6 +21,38 @@
 - ใช้เทคโนโลยีเพื่อการดี: ได้ฝึกการเขียนโปรแกรมด้วยภาษาC
 
 # อุปกรณ์
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="100%"/></td>
+    </tr>
+    <tr>
+      <td align="center">Text 1</td>
+      <td align="center">Text 2</td>
+      <td align="center">Text 3</td>
+    </tr>
+  </table>
+  <br>
+  <table width="100%">
+    <tr>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 4" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 5" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 6" width="100%"/></td>
+    </tr>
+    <tr>
+      <td align="center">Text 4</td>
+      <td align="center">Text 5</td>
+      <td align="center">Text 6</td>
+    </tr>
+  </table>
+</p>
+
+
+
+
+
 - Arduino UNO
 <img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" width="150px">
 
@@ -55,22 +87,136 @@
 โปรแกรมการทำงานของวงจร Smart Dice : https://www.tinkercad.com/things/0Q0A5c8MR0S-bodacious-luulia/editel?sharecode=c8WC7zmIZEIyshW-YH5nPVlcUAl67TDmga5AnHoQYaM
 
 # Website Project
-https://nickanyp.github.io/Project-Compro/
+https://maledkhaosan.github.io/PhyCom/
 
 # YouTube สาธิตการทำงาน
-https://www.youtube.com/watch?v=vNhkyRTJzG8
+https://youtu.be/HDK1q2qy2TI?si=WCmcptUFXFldW2lL
 
 # Source Code
-<img src="https://cdn.discordapp.com/attachments/963437675103289404/971074275949834280/1.PNG">
-<img src="https://cdn.discordapp.com/attachments/963437675103289404/971074276218261554/2.PNG">
-<img src="https://cdn.discordapp.com/attachments/963437675103289404/971074276503486484/3.PNG">
-<img src="https://cdn.discordapp.com/attachments/963437675103289404/971074276964831282/4.PNG">
-<img src="https://cdn.discordapp.com/attachments/963437675103289404/971074277170376734/5.PNG">
+```cpp
+#include <Arduino.h>
+// กำหนดค่าคงที่สำหรับพินของ Arduino
+const int TRIGGER_PIN = 12;
+const int ECHO_PIN = 11;
+const int BUZZER_PIN = 8;
 
+int distance; // ตัวแปรเก็บค่าระยะทางที่วัดได้
+unsigned long previousMillis = 0; // ตัวแปรที่ใช้เก็บเวลาที่ loop ล่าสุดทำงาน
+const long interval = 500; // ค่าคงที่ที่กำหนดช่วงเวลาในการวัดระยะทาง (มิลลิวินาที)
+
+void setup() {
+  Serial.begin(9600); // เริ่มการสื่อสารทาง Serial ด้วยความเร็ว 9600 bps
+  pinMode(TRIGGER_PIN, OUTPUT); // ตั้ง TRIGGER_PIN เป็น OUTPUT
+  pinMode(ECHO_PIN, INPUT); // ตั้ง ECHO_PIN เป็น INPUT
+  pinMode(BUZZER_PIN, OUTPUT); // ตั้ง BUZZER_PIN เป็น OUTPUT
+  
+  // พิมพ์ข้อความเริ่มต้นไปยัง Serial Monitor
+  Serial.println("Ultrasonic Sensor HC-SR04 Test");
+  Serial.println("with Arduino UNO R3");
+}
+
+void loop() {
+  // อ่านเวลาปัจจุบัน
+  unsigned long currentMillis = millis();
+  
+  // ตรวจสอบว่าเวลาที่ผ่านมานับตั้งแต่การวัดครั้งล่าสุดเกิน interval หรือไม่
+  if (currentMillis - previousMillis >= interval) {
+    previousMillis = currentMillis; // บันทึกเวลาปัจจุบัน
+
+    distance = measureDistance(); // วัดระยะทาง
+    Serial.print("Distance: ");
+    Serial.print(distance);
+    Serial.println(" cm");
+
+    if (distance <= 30 && distance != 0) {
+      activateBuzzer(); // เปิดบัซเซอร์ถ้าระยะทางน้อยกว่าหรือเท่ากับ 30 ซม.
+    } else {
+      deactivateBuzzer(); // ปิดบัซเซอร์ถ้าระยะทางมากกว่า 30 ซม.
+    }
+  }
+}
+
+int measureDistance() {
+  // ส่งสัญญาณทริกเกอร์
+  digitalWrite(TRIGGER_PIN, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIGGER_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIGGER_PIN, LOW);
+  
+  // อ่านระยะเวลาที่สัญญาณเอคโค่กลับมา
+  long duration = pulseIn(ECHO_PIN, HIGH);
+  
+  // คำนวณระยะทาง
+  int distance = (duration * 0.034) / 2;
+  return distance;
+}
+
+void activateBuzzer() {
+  digitalWrite(BUZZER_PIN, HIGH); // เปิดบัซเซอร์แจ้งเตือนผู้ใช้
+  Serial.println("Buzzer ON");
+}
+
+void deactivateBuzzer() {
+  digitalWrite(BUZZER_PIN, LOW); // ปิดบัซเซอร์
+  Serial.println("Buzzer OFF");
+}
+```
+# tinkercad arduino Source Code
+```c
+#include <Arduino.h>
+
+// กำหนดค่าคงที่สำหรับพินของ Arduino
+const int TRIGGER_PIN = 12;
+const int ECHO_PIN = 11;
+const int BUZZER_PIN = 8;
+
+// ตัวแปรที่จะเก็บค่าเวลาและระยะทาง
+int duration;
+int distance;
+
+void setup() {
+  // เริ่มต้นการสื่อสารทาง Serial ด้วยความเร็ว 9600 bps
+  Serial.begin(9600);
+  
+  // ตั้งค่าโหมดการทำงานของพินต่างๆ
+  pinMode(TRIGGER_PIN, OUTPUT);
+  pinMode(ECHO_PIN, INPUT);
+  pinMode(BUZZER_PIN, OUTPUT);
+}
+
+void loop() {
+  // ส่งสัญญาณทริกเกอร์
+  digitalWrite(TRIGGER_PIN, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIGGER_PIN, LOW);
+
+  // วัดระยะเวลาที่สัญญาณเอคโค่กลับมา
+  duration = pulseIn(ECHO_PIN, HIGH);
+
+  // คำนวณระยะทาง
+  distance = (duration * 0.034) / 2;
+
+  // แสดงระยะทางทาง Serial Monitor
+  Serial.print("Distance: ");
+  Serial.print(distance);
+  Serial.println(" cm");
+
+  // เช็คระยะทางและเปิดบัซเซอร์ถ้าระยะทางน้อยกว่าหรือเท่ากับ 30 ซม. และไม่เท่ากับ 0
+  if (distance <= 30 && distance != 0) {
+    digitalWrite(BUZZER_PIN, HIGH);
+    delay(500);
+  } else {
+    digitalWrite(BUZZER_PIN, LOW);
+    delay(500);
+  }
+}
+
+```
 # Member
-1.      นายนันทนนท์ จินขุนทอง 64070057
-2.      นางสาวอนัญพร จอมคำ 64070114
-3.      นางสาวกรกมล วิชชุธีระกุล 64070121
-4.      นางสาวตรียา เอื้อเจริญศรี 64070151
-&emsp;&emsp;รายงานนี้เป็นส่วนหนึ่งของวิชา Computer Programming สาขาวิชาเทคโนโลยีสารสนเทศ ภาคเรียนที่ 2 ปีการศึกษา 2564
+1. 65070022 นางสาวกุลธิดา รัตนวิจิตร
+2. 65070048 นายชาญเมธา สงวนทรัพย์
+3. 65070059 นายณฏฐพล  สวัสดิ์มูล
+4. 65070077 นางสาวณัฐนันท์  งามสมุทร
+&emsp;&emsp;รายงานนี้เป็นส่วนหนึ่งของวิชา Physical Computing สาขาวิชาเทคโนโลยีสารสนเทศ ภาคเรียนที่ 2 ปีการศึกษา 2566
 คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
