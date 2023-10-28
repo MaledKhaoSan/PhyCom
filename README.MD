@@ -24,27 +24,27 @@
 <p align="center">
   <table width="100%">
     <tr>
-      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="100%"/></td>
-      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="100%"/></td>
-      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/raw/main/source/buzzer.webp" alt="Image 1" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/ultrasonic.png?raw=true" alt="Image 2" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/uno.jpeg?raw=true" alt="Image 3" width="100%"/></td>
     </tr>
     <tr>
-      <td align="center">Text 1</td>
-      <td align="center">Text 2</td>
-      <td align="center">Text 3</td>
+      <td align="center">buzzer</td>
+      <td align="center">ultrasonic sensors</td>
+      <td align="center">arduino uno</td>
     </tr>
   </table>
   <br>
   <table width="100%">
     <tr>
-      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 4" width="100%"/></td>
-      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 5" width="100%"/></td>
-      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 6" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/holder.png?raw=true" alt="Image 4" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/wire.png?raw=true" alt="Image 5" width="100%"/></td>
+      <td width="33.33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/cap.png?raw=true" alt="Image 6" width="100%"/></td>
     </tr>
     <tr>
-      <td align="center">Text 4</td>
-      <td align="center">Text 5</td>
-      <td align="center">Text 6</td>
+      <td align="center">battery holder</td>
+      <td align="center">jumper wire</td>
+      <td align="center">cap</td>
     </tr>
   </table>
 </p>
@@ -52,30 +52,6 @@
 
 
 
-
-- Arduino UNO
-<img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" width="150px">
-
-- LED
-<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_843,q_auto,w_1500/c_pad,h_843,w_1500/R1278393-01?pgw=1&pgwact=1" width="150px">
-
-- Pushbutton switch
-<img src="http://www.warf.com/imagesitem/original/3494_1597.jpg" width="150px">
-
-- Jumper Wires
-<img src="https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_1.0,f_auto,h_843,q_auto,w_1500/c_pad,h_843,w_1500/F7916450-01?pgw=1&pgwact=1" width="150px">
-
-- Resistor 1k ohm
-<img src="https://m.media-amazon.com/images/I/51l9hdTlmjL._SL1001_.jpg" width="150px">
-
-- Resistor 220 ohm
-<img src="https://commandronestore.com/products/products_img/BR200.png" width="150px">
-
-- 7 Segment Display
-<img src="http://www.warf.com/imagesitem/original/3517_1597.jpg" width="150px">
-
-- Breadboard Small
-<img src="https://cdn-shop.adafruit.com/970x728/65-00.jpg" width="150px">
 
 # หลักการทำงาน
 1. เมื่อผู้ใช้ส่วมหมวกอัจฉริยะ, จะใช้เซ็นเซอร์อินฟราเรดหรืออุปกรณ์ตรวจจับอื่นๆ เพื่อรับรู้สิ่งกีดขวางที่อยู่ในระยะ 20 ซม. จากผู้ใช้.
