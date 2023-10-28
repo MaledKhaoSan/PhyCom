@@ -21,13 +21,12 @@
 - ใช้เทคโนโลยีเพื่อการดี: ได้ฝึกการเขียนโปรแกรมด้วยภาษาC
 
 # อุปกรณ์
-
 <p align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="200"/></td>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="200"/></td>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="200"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="100%"/></td>
     </tr>
     <tr>
       <td align="center">Text 1</td>
@@ -35,33 +34,21 @@
       <td align="center">Text 3</td>
     </tr>
   </table>
-
-  <table>
+  <br>
+  <table width="100%">
     <tr>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="200"/></td>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="200"/></td>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="200"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 4" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 5" width="100%"/></td>
+      <td width="33.33%"><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 6" width="100%"/></td>
     </tr>
     <tr>
-      <td align="center">Text 1</td>
-      <td align="center">Text 2</td>
-      <td align="center">Text 3</td>
-    </tr>
-  </table>
-
-  <table>
-    <tr>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="200"/></td>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="200"/></td>
-      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="200"/></td>
-    </tr>
-    <tr>
-      <td align="center">Text 1</td>
-      <td align="center">Text 2</td>
-      <td align="center">Text 3</td>
+      <td align="center">Text 4</td>
+      <td align="center">Text 5</td>
+      <td align="center">Text 6</td>
     </tr>
   </table>
 </p>
+
 
 
 
