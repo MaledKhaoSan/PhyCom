@@ -35,6 +35,32 @@
       <td align="center">Text 3</td>
     </tr>
   </table>
+
+  <table>
+    <tr>
+      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="200"/></td>
+      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="200"/></td>
+      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="200"/></td>
+    </tr>
+    <tr>
+      <td align="center">Text 1</td>
+      <td align="center">Text 2</td>
+      <td align="center">Text 3</td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 1" width="200"/></td>
+      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 2" width="200"/></td>
+      <td><img src="https://www.ai-corporation.net/wp-content/uploads/2021/11/37_r1.jpg" alt="Image 3" width="200"/></td>
+    </tr>
+    <tr>
+      <td align="center">Text 1</td>
+      <td align="center">Text 2</td>
+      <td align="center">Text 3</td>
+    </tr>
+  </table>
 </p>
 
 
