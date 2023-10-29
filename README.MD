@@ -58,7 +58,7 @@
 
 
 <p align="center">
-  <table width="100%">
+  <table style="margin: 0 auto; width: 100%;">
     <tr>
       <td width="25%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 1" width="100%"/></td>
       <td width="25%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 2" width="100%"/></td>
