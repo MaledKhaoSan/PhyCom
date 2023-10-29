@@ -62,20 +62,20 @@
   <table style="padding: 10%; width: 100%;">
     <tr>
       <td align="center">
-        <p><a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw">Vide Demo</a></p>
+        <p><a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw" target="_blank">Vide Demo</a></p>
       </td>
       <td align="center">
-        <p><a href="https://maledkhaosan.github.io/PhyCom/">Website</a></p>
+        <p><a href="https://maledkhaosan.github.io/PhyCom/" target="_blank">Website</a></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw">
+        <a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw" target="_blank">
           <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 2" width="100%"/>
         </a>
       </td>
       <td width="50%">
-        <a href="https://maledkhaosan.github.io/PhyCom/">
+        <a href="https://maledkhaosan.github.io/PhyCom/" target="_blank">
           <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/website.png?raw=true" alt="Image 2" width="100%"/>
         </a>
       </td>
