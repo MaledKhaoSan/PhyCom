@@ -56,23 +56,22 @@
 4. ระบบแจ้งเตือนจะหยุดทำงาน, ช่วยให้ผู้ใช้สามารถเดินทางต่อไปได้อย่างปลอดภัย.
 <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/tinkerCad.png?raw=true">
 
-# Website Project
-https://maledkhaosan.github.io/PhyCom/
-
-# YouTube สาธิตการทำงาน
-<img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" height="70%">
-https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn
-
 
 <p align="center">
   <table width="100%">
     <tr>
-      <td width="33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/buzzer.png?raw=true" alt="Image 1" width="100%"/></td>
-      <td width="33%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/ultrasonic.png?raw=true" alt="Image 2" width="100%"/></td>
+      <td width="25%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 1" width="100%"/></td>
+      <td width="25%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 2" width="100%"/></td>
     </tr>
     <tr>
-      <td align="center">buzzer</td>
-      <td align="center">ultrasonic sensors</td>
+      <td align="center">
+        <p>YouTube สาธิตการทำงาน</p>
+        <p>https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn</p>
+      </td>
+      <td align="center">
+        <p>Website Project</p>
+        <p>https://maledkhaosan.github.io/PhyCom/</p>
+      </td>
     </tr>
   </table>
 </p>
