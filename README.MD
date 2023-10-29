@@ -57,13 +57,13 @@
 <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/tinkerCad.png?raw=true">
 
 
-<p align="center">
-  <table width="100%">
+<div align="center">
+  <table style="padding: 10%; width: 100%;">
     <tr>
-      <td width="25%">
+      <td width="50%">
         <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 1" width="100%"/>
       </td>
-      <td width="25%">
+      <td width="50%">
         <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 2" width="100%"/>
       </td>
     </tr>
@@ -76,7 +76,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 
 
