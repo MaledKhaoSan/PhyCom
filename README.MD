@@ -63,6 +63,22 @@ https://maledkhaosan.github.io/PhyCom/
 <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" height="70%">
 https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn
 
+
+<p align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/buzzer.png?raw=true" alt="Image 1" width="100%"/></td>
+      <td width="50%"><img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/ultrasonic.png?raw=true" alt="Image 2" width="100%"/></td>
+    </tr>
+    <tr>
+      <td align="center">buzzer</td>
+      <td align="center">ultrasonic sensors</td>
+    </tr>
+  </table>
+</p>
+
+
+
 # Source Code
 ```cpp
 #include <Arduino.h>
