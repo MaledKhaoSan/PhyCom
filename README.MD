@@ -60,6 +60,7 @@
 https://maledkhaosan.github.io/PhyCom/
 
 # YouTube สาธิตการทำงาน
+<img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" width="100%">
 https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn
 
 # Source Code
