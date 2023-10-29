@@ -70,10 +70,14 @@
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 1" width="100%"/>
+        <a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw">
+          <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 2" width="100%"/>
+        </a>
       </td>
       <td width="50%">
-        <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/website.png?raw=true" alt="Image 2" width="100%"/>
+        <a href="https://maledkhaosan.github.io/PhyCom/">
+          <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/website.png?raw=true" alt="Image 2" width="100%"/>
+        </a>
       </td>
     </tr>
   </table>
