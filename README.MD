@@ -65,11 +65,10 @@
     </tr>
     <tr>
       <td align="center">
-        <p>YouTube สาธิตการทำงาน</p>
-        <p>https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn</p>
+        <p><a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw">YouTube สาธิตการทำงาน</a></p>
       </td>
       <td align="center">
-        [Website Project](https://maledkhaosan.github.io/PhyCom/)
+        <p><a href="https://maledkhaosan.github.io/PhyCom/">Website</a></p>
       </td>
     </tr>
   </table>
