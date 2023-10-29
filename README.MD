@@ -56,11 +56,30 @@
 4. ระบบแจ้งเตือนจะหยุดทำงาน, ช่วยให้ผู้ใช้สามารถเดินทางต่อไปได้อย่างปลอดภัย.
 <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/tinkerCad.png?raw=true">
 
-# Website Project
-https://maledkhaosan.github.io/PhyCom/
 
-# YouTube สาธิตการทำงาน
-https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn
+<div align="center">
+  <table style="padding: 10%; width: 100%;">
+    <tr>
+      <td width="50%">
+        <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 1" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github.com/MaledKhaoSan/PhyCom/blob/main/source/videoDemo.gif?raw=true" alt="Image 2" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <p><a href="https://youtu.be/noQhB6XUKgA?si=Z1WQ6UCn-ElfCekw">YouTube สาธิตการทำงาน</a></p>
+      </td>
+      <td align="center">
+        <p><a href="https://maledkhaosan.github.io/PhyCom/">Website</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 # Source Code
 ```cpp
