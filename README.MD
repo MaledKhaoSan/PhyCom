@@ -69,7 +69,7 @@
         <p>https://youtu.be/noQhB6XUKgA?si=ogRAWeJelOeR6NDn</p>
       </td>
       <td align="center">
-        <p>Website Project</p>
+        <p>[Website Project](https://maledkhaosan.github.io/PhyCom/)</p>
         <p>https://maledkhaosan.github.io/PhyCom/</p>
       </td>
     </tr>
